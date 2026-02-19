@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nowone-univers.github.io/mon-guide-solaire/sitemap.xml
